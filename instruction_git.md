@@ -10,8 +10,6 @@
 
 для того чтобы просмотреть состояние репозитория вам необходимо использовать команду "Git status"
 После ввода она выведет вам всю информацию об наличии или отсутствии изменений  
-
-    git status
     git int
     git add
     git commit
@@ -21,4 +19,4 @@
     git log --oneline
     git log --all
     git log --all --oneline
-    git diff
+    git diff 
